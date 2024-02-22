@@ -1,0 +1,16 @@
+.homeproduct{
+  /* margin-bottom: 12rem; */
+  margin-bottom: clamp(0rem, -2.7379rem + 10.6796vw, 12rem);
+  flex: 1;
+
+}
+
+.product__contents {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(31rem), 0.8fr));
+  column-gap: 2rem;
+  justify-content: center;
+  row-gap: 4rem;
+}
+
+

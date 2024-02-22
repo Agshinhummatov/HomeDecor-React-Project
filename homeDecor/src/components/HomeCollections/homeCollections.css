@@ -1,0 +1,10 @@
+.collections {
+  background: var(--border-color-gray);
+  padding-top: clamp(4rem, 2.6408rem + 3.8835vw, 8rem);
+  padding-bottom: clamp(4rem, 2.6408rem + 3.8835vw, 8rem);
+  margin-bottom: clamp(5rem, -2.7379rem + 10.6796vw, 12.8rem);
+}
+
+.collections .category__item {
+  height: 26.7rem;
+}

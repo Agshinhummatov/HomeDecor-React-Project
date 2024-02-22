@@ -1,0 +1,30 @@
+.colors__title {
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.colors__items {
+  display: flex;
+  gap: 1rem;
+}
+
+.checked {
+}
+
+.colors__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  border-radius: 50%;
+  transition: border 0.3s ease-in-out;
+  border: 1px solid transparent;
+}
+.colors__item--color {
+  display: block;
+  width: 1.8rem;
+  height: 1.8rem;
+  cursor: pointer;
+  border-radius: 50%;
+  position: relative;
+}

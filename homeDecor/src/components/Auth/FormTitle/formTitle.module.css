@@ -1,0 +1,3 @@
+.formtitle {
+  margin-bottom: clamp(1rem, 2.3962rem + 1.8868vw, 3rem);
+}

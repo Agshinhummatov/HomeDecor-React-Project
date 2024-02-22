@@ -1,0 +1,26 @@
+.shopping {
+  margin-bottom: clamp(10rem, 8.4906rem + 4.717vw, 15rem);
+}
+.backbtn {
+  display: inline-block;
+  text-decoration: underline;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  padding-top: 2rem;
+}
+
+.shopping__items {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 2rem;
+
+}
+
+
+@media screen  and (max-width: 992px) {
+  .shopping__items {
+  }
+}
+  

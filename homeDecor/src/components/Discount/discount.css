@@ -1,0 +1,38 @@
+.discount {
+  height: 37rem;
+  backdrop-filter: blur(7.5px);
+  margin-bottom: clamp(7rem, -2.7379rem + 10.6796vw, 12.8rem);
+  background-size: cover !important;
+}
+
+.discount::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(7.5px);
+  z-index: -1;
+}
+
+.discount__contents {
+  color: var(--txt-color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  max-width: 48.5rem;
+  text-align: center;
+}
+
+.discount__content--title {
+  margin-bottom: 3.3rem;
+  font-size: clamp(2.4rem, 0.6505rem + 3.8835vw, 6.4rem);
+}
+.discount__content--desc {
+  margin-bottom: 4.2rem;
+  line-height: 2.4rem;
+}

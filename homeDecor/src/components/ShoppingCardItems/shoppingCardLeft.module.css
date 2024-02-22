@@ -1,0 +1,12 @@
+.items{
+  max-width: 103rem;
+  width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+  .items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(30rem), 1fr));
+    gap: 2rem;
+  }
+}

@@ -1,0 +1,23 @@
+.counter {
+  display: flex;
+ 
+}
+.counter__item:nth-child(2) {
+  margin-inline: 1rem;
+  border: 1px solid var(--color-primary);
+}
+
+.counter__item {
+  border-radius: var(--border-radius);
+  width: 6.1rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+}
+
+.btn {
+  cursor: pointer;
+  background-color: rgb(184 146 106 / 12%);
+}

@@ -1,0 +1,18 @@
+.statistics {
+  margin-bottom: clamp(10rem, -2.7379rem + 10.6796vw, 15rem);
+}
+
+.statistics__items {
+  width: min(90%, 110rem);
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 5rem;
+}
+
+@media screen and (max-width: 60rem) {
+  .statistics__items {
+    justify-content: center;
+  }
+}

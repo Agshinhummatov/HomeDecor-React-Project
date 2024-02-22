@@ -1,0 +1,1 @@
+import{j as s,w as a}from"./index-71d35b4f.js";const i=({title:o,href:e,lang:t})=>s.jsxs("div",{className:"section__top ",children:[s.jsx("h2",{className:"section__title",children:o}),e&&s.jsx(a,{className:"see__all",to:e,children:t==="Az"?"Hamısına bax":t==="Ru"?"Посмотреть все":"See all"})]});export{i as S};

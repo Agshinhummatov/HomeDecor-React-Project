@@ -1,0 +1,14 @@
+.nextarr::before{
+  content: "";
+}
+
+.nextarr{
+  background: var(--color-primary);
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+}
+
+.nextarr:hover{
+  background-color: var(--btn-hover-bg);
+}

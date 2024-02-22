@@ -1,0 +1,25 @@
+.summary {
+  width: 100%;
+  max-width: 33rem;
+  /* height: 26.5rem; */
+  padding: 3rem;
+  border-radius: var(--border-radius);
+  background: var(--border-color-gray);
+}
+
+.summary__title {
+  margin-bottom: 3.3rem;
+}
+.summary__count--title,
+.summary__total--title {
+  padding-bottom: 2.5rem;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.summary__total--title {
+  border-bottom: 1px solid var(--main-bg);
+  margin-bottom: 2rem;
+}

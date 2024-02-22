@@ -1,0 +1,32 @@
+.details {
+  flex: 1;
+}
+
+.details__title {
+  font-size: clamp(2.5rem, -0.5248rem + 4.3186vw, 3.2rem);
+  margin-bottom: clamp(3rem, 2.7961rem + 0.5825vw, 3.6rem);
+}
+
+.details__desc {
+  margin-bottom: 3rem;
+}
+
+.colors__container {
+  margin-bottom: 3.8rem;
+}
+
+.details__price {
+  color: var(--color-primary);
+  margin-bottom: 5rem;
+}
+
+.action__buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.details__count {
+  margin-bottom: 3.6rem;
+}

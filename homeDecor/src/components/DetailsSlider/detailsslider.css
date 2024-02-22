@@ -1,0 +1,15 @@
+.sliders__container {
+  max-width: 64rem;
+  width: 100%;
+}
+
+.sliders__container .slick-slide.slick-active:not(.slick-current) {
+  filter: brightness(0.5);
+}
+.bigSlider {
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+.smallSlider .slick-slide div {
+  margin-right: 2.6rem;
+}

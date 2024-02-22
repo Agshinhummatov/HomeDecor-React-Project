@@ -1,0 +1,19 @@
+.sectionTopBottom {
+  margin-bottom: 5rem;
+}
+
+.sectionTopBottom__items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+
+@media screen and (max-width:600px) {
+  .sectionTopBottom__items{
+    justify-content: center;
+  }
+  
+}

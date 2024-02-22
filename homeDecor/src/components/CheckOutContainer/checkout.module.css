@@ -1,0 +1,160 @@
+.checkout {
+  margin-bottom: clamp(10rem, 6.75rem + 10.8333vw, 21.7rem);
+}
+
+.header {
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 3rem;
+}
+.form__top {
+  display: flex;
+  justify-content: space-between;
+  row-gap: 5rem;
+  flex-wrap: wrap;
+}
+
+.info__left {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+:is(.form__personal--info, .form__card--info) :is(input, div) {
+  max-width: 33rem;
+  width: 100%;
+}
+.form__right,
+.form__left,
+.info__right {
+  flex: 1;
+}
+.info__right {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  min-width: 24rem;
+  flex: 0 1 100%;
+}
+.customInput {
+  position: relative;
+}
+
+.placeholder {
+  position: absolute;
+  top: 50%;
+  right: 2rem;
+  transform: translateY(-50%);
+  color: var(--color-gray);
+}
+
+.custom__radio--label {
+  display: flex;
+  margin-left: 0.5rem;
+  justify-content: start;
+  text-transform: uppercase;
+  gap: 2rem;
+  margin-bottom: 1.9rem;
+}
+
+.custom__radio--input {
+  accent-color: #a98c6e;
+  width: auto;
+  transform: scale(1.5);
+}
+
+.form__bottom {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 5rem;
+}
+.form__bottom--left {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 5rem;
+  flex: 1;
+}
+
+.form__bottom--right {
+  flex: 1;
+}
+
+.checkout__form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 2rem;
+  grid-template-areas:
+    "personal personal card-info"
+    "personal personal card-info"
+    "payment delivery submit";
+}
+
+.form__personal--info {
+  grid-area: personal;
+}
+.form__card--info {
+  grid-area: card-info;
+  max-width: 36.8rem;
+}
+
+.form__submit {
+  grid-area: submit;
+}
+
+.primary__btn {
+  background: var(--color-primary);
+  color: var(--btn-txt-color);
+  transition: background 0.2s linear;
+  max-width: 33rem;
+  width: 100%;
+}
+
+.primary__btn:hover {
+  background: var(--btn-hover-bg);
+}
+
+.primary__btn:disabled {
+  background: var(--btn-disabled-bg);
+  cursor: not-allowed;
+}
+
+.form__payment--info {
+  grid-area: payment;
+}
+.form__delivery--info {
+  grid-area: delivery;
+}
+
+@media screen and (max-width: 992px) {
+  .checkout__form {
+    grid-template-columns: 1fr;
+    column-gap: 2rem;
+    grid-template-rows: 1fr 0.3fr;
+    grid-template-areas:
+      "personal card-info"
+      "personal payment"
+      "submit delivery";
+  }
+  .form__submit {
+    display: flex;
+    align-items: end;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .checkout__form {
+    grid-template-columns: 1fr;
+    column-gap: 2rem;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+      "personal"
+      "card-info"
+      "payment"
+      "delivery"
+      "submit";
+  }
+}

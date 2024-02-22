@@ -1,0 +1,9 @@
+.form__bottom--link {
+  text-transform: capitalize;
+  color: var(--color-primary);
+  text-decoration: underline;
+  margin-left: 2rem;
+}
+.form__bottom--txt{
+  margin: 1.2rem;
+}

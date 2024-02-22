@@ -1,0 +1,43 @@
+.navbar {
+  position: relative;
+}
+
+.navbar:is(.active) body {
+  overflow: hidden;
+}
+
+.menu {
+  display: grid;
+  place-items: center;
+  padding: 1rem 0;
+}
+
+.menu__list {
+  display: flex;
+  align-items: center;
+  gap: 7rem;
+}
+
+.menu__list--item .link {
+  position: relative;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid transparent;
+  border-width: 0;
+}
+
+.menu__list--item .link::after {
+  content: "";
+  position: absolute;
+  bottom: 0.5rem;
+  height: 2px;
+  right: 0;
+  width: 0;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out 0s;
+  background: var(--color-primary);
+}
+.menu__list--item .link.active::after,
+.menu__list--item .link:hover::after {
+  visibility: visible;
+  width: 100%;
+}

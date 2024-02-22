@@ -1,0 +1,1 @@
+import{j as t}from"./index-71d35b4f.js";const _={"form__bottom--link":"_form__bottom--link_66no9_1","form__bottom--txt":"_form__bottom--txt_66no9_13"},m="_formtitle_7sw34_1",o={formtitle:m},e=({title:s})=>t.jsx("div",{className:o.formtitle,children:t.jsx("h2",{className:o.formtitle__header,children:s})});export{e as F,_ as s};

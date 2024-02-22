@@ -1,0 +1,35 @@
+.footer{
+  padding: 2rem 0;
+  flex-shrink: 0;
+}
+
+.footer__list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 5rem;
+}
+
+.footer__right{
+ 
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 9rem;
+  row-gap: 2.5rem;
+}
+.footer__right,
+.footer__right a{
+  color: var(--txt-color-dark-gray);
+}
+.footer__list--title{
+  font-size: 5.2rem;
+  font-family:var(--second-font);
+}
+.footer__list--desc{
+  max-width: 25rem;
+}
+
+.footer__rights{
+  font-size: 1.2rem;
+}

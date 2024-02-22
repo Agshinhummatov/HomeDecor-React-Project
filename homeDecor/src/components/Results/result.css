@@ -1,0 +1,16 @@
+.results{
+  /* margin-bottom: 15rem; */
+  margin-bottom: clamp(0rem, -2.7379rem + 10.6796vw, 15rem);
+
+
+}
+
+
+.results__items{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(33rem), 0.8fr));
+  column-gap: 2rem;
+  justify-content: center;
+  row-gap: 4rem;
+  margin-bottom: 5rem;
+}

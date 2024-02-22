@@ -1,0 +1,32 @@
+.product__top {
+  height: 26.7rem;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  position: relative;
+}
+
+.wish__btn {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  width: 4rem;
+  height: 3.6rem;
+  background: var(--txt-color-white);
+  display: grid;
+  place-items: center;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.product__item--title,
+.product__top {
+  margin-bottom: 2.2rem;
+}
+.product__item--title {
+  font-size: clamp(1.6rem, 1.4641rem + 0.3883vw, 2rem);
+}
+.product__item--price {
+  color: var(--color-primary);
+  font-family: var(--main-font);
+  font-size: 2rem;
+}

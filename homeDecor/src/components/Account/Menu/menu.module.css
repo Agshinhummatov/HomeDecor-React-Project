@@ -1,0 +1,29 @@
+.menu {
+  background: var(--border-color-gray);
+  padding: 4rem 3rem 5.7rem 3rem;
+  border-radius: var(--border-radius);
+  height: 35rem;
+  max-width: 45.5rem;
+  min-width: 30rem;
+  width: 100%;
+  flex: 1;
+}
+
+.menu__header {
+  margin-bottom: 5.2rem;
+}
+.menu__list--item a {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  text-transform: uppercase;
+}
+.menu__list--item:first-child {
+  margin-bottom: 3rem;
+}
+
+.menu__list--item:nth-child(2) {
+  padding-bottom: 3rem;
+  border-bottom: 1px solid var(--main-bg);
+  margin-bottom: 3rem;
+}

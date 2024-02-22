@@ -1,0 +1,17 @@
+.error__container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.error__code {
+  font-size: clamp(4rem, -0.2264rem + 13.2075vw, 18rem);
+  margin-bottom: 3rem;
+}
+
+.error__status {
+  font-size: clamp(1.8rem, 0.7806rem + 2.9126vw, 4.8rem);;
+  text-transform: uppercase;
+}

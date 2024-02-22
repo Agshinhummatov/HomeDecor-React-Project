@@ -1,0 +1,50 @@
+.login {
+  max-width: 44.7rem;
+  width: 100%;
+}
+.login a {
+  max-width: 100%;
+}
+
+.login__form {
+  /* margin-bottom: clamp(4rem, 3.0943rem + 2.8302vw, 7rem); */
+  margin-bottom: clamp(2rem, 3.0943rem + 2.8302vw, 3rem);
+}
+
+.form__label {
+  height: 5.4rem;
+  margin-bottom: 1.5rem;
+}
+.forgotpassword__link {
+  margin-bottom: 1.7rem;
+  display: inline-block;
+}
+input {
+  width: 100%;
+}
+
+.password__input {
+  position: relative;
+}
+
+.password__input span {
+  position: absolute;
+  right: 3.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 99;
+  cursor: pointer;
+  fill: var(--color-primary);
+}
+
+.forgotpassword__link {
+  font-size: 1.4rem;
+  color: var(--color-primary);
+}
+
+@media screen and (max-width: 698px) {
+  .login {
+    margin: auto;
+    text-align: center;
+  }
+}

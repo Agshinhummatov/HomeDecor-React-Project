@@ -1,0 +1,640 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "showInHome": true,
+      "categoryId": 1,
+      "collectionId": 2,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson adam Premium Grey Wash Nest of Tables",
+      "titleAz": "Oturacaq dəsti",
+      "titleRu": "Столик для кофе",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "2",
+      "showInHome": true,
+      "categoryId": 1,
+      "collectionId": 9,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/5a9755b2be5d65f3963d2bc282606dc6acd7fe2d?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 150,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "3",
+      "showInHome": true,
+      "categoryId": 2,
+      "collectionId": 2,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 160,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "4",
+      "showInHome": true,
+      "categoryId": 2,
+      "collectionId": 1,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 123,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "5",
+      "showInHome": true,
+      "categoryId": 3,
+      "collectionId": 3,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/dee2eb1391d11c1e5ecc902a0c6592f4c16d3abb?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 110,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "6",
+      "showInHome": true,
+      "categoryId": 3,
+      "collectionId": 3,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/a74de1b66730f5b5363196a16ffb8a91a269bf7e?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 100,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "7",
+      "showInHome": true,
+      "categoryId": 4,
+      "collectionId": 4,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 278,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "8",
+      "showInHome": true,
+      "categoryId": 4,
+      "collectionId": 4,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/dee2eb1391d11c1e5ecc902a0c6592f4c16d3abb?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 99,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "9",
+      "showInHome": false,
+      "categoryId": 3,
+      "collectionId": 3,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/dee2eb1391d11c1e5ecc902a0c6592f4c16d3abb?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "10",
+      "showInHome": false,
+      "categoryId": 4,
+      "collectionId": 5,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": false
+    },
+    {
+      "id": "11",
+      "showInHome": false,
+      "categoryId": 5,
+      "collectionId": 5,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": true
+    },
+    {
+      "id": "12",
+      "showInHome": false,
+      "categoryId": 3,
+      "collectionId": 3,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": true
+    },
+    {
+      "id": "13",
+      "showInHome": false,
+      "categoryId": 3,
+      "collectionId": 3,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": true
+    },
+    {
+      "id": "14",
+      "showInHome": false,
+      "categoryId": 3,
+      "collectionId": 3,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": true
+    },
+    {
+      "id": "15",
+      "showInHome": false,
+      "categoryId": 3,
+      "collectionId": 9,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": true
+    },
+    {
+      "id": "16",
+      "showInHome": false,
+      "categoryId": 3,
+      "collectionId": 9,
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943",
+      "title": "Grayson Premium Grey Wash Nest of Tables",
+      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleRu": "Кухонная мебель",
+      "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
+      "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
+      "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
+      "price": 140,
+      "currency": "$",
+      "isPopular": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "sofas",
+      "titleAz": "divanlar",
+      "titleRu": "диваны",
+      "products": [
+        1
+      ],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "2",
+      "title": "beds and headboards",
+      "titleAz": "yataq və başlıqlar",
+      "titleRu": "кровати и изголовья",
+      "products": [
+        2
+      ],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "3",
+      "title": "rugs",
+      "titleAz": "xalçalar",
+      "titleRu": "ковры",
+      "products": [
+        3
+      ],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "4",
+      "title": "cushions",
+      "titleAz": "yastıqlar",
+      "titleRu": "подушки",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "5",
+      "title": "headboards",
+      "titleAz": "başlıqlar",
+      "titleRu": "изголовья",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    }
+  ],
+  "collections": [
+    {
+      "id": "1",
+      "title": "bedroom",
+      "titleAz": "yataq otağı",
+      "titleRu": "спальня",
+      "products": [
+        1
+      ],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "2",
+      "title": "living room",
+      "titleAz": "qonaq otağı",
+      "titleRu": "гостиная",
+      "products": [
+        2
+      ],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "3",
+      "title": "kitchen",
+      "titleAz": "mətbəx",
+      "titleRu": "кухня",
+      "products": [
+        3
+      ],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "4",
+      "title": "library",
+      "titleAz": "kitabxana",
+      "titleRu": "библиотека",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "5",
+      "title": "office",
+      "titleAz": "ofis",
+      "titleRu": "офис",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "6",
+      "title": "launndry room",
+      "titleAz": "çamaşır otağı",
+      "titleRu": "прачечная",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "7",
+      "title": "guest room",
+      "titleAz": "qonaq otağı",
+      "titleRu": "гостиная",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "8",
+      "title": "family room",
+      "titleAz": "ailə otağı",
+      "titleRu": "семейная комната",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    },
+    {
+      "id": "9",
+      "title": "bathroom",
+      "titleAz": "vanna otağı",
+      "titleRu": "ванная комната",
+      "products": [],
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+    }
+  ],
+  "homeIntro": {
+    "id": 1,
+    "title": "THE FURNITURE THAT DEFINES YOU",
+    "titleAz": "SİZİ TANIMLAYAN MEBEL",
+    "titleRu": "МЕБЕЛЬ, ОПРЕДЕЛЯЮЩАЯ ВАС",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum",
+    "descriptionAz": "Amma əslində indiki həzzlərin yaltaqlığına layiq olanları həm ittiham edirik, həm də ədalətli nifrətlə aparırıq.",
+    "descriptionRu": "Но на самом деле мы обвиняем в сегодняшнем удовольствии тех, кто заслуживает ненависти, а также справедливо ненавидим.",
+    "link": "http://localhost:5173/products",
+    "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/d9b68e11548ad23561f72bb7ac58ee9002bb63a0?fuid=1131637315550891943"
+  },
+  "aboutUs": {
+    "id": 1,
+    "title": "ABOUT US",
+    "titleAz": "HAQQIMIZDA",
+    "titleRu": "О НАС",
+    "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+    "descriptionAz": "Həqiqətən də bu şeylər arasında fərq asan və məqsədəuyğundur. Çünki boş vaxtlarda, seçim bizim üçün açıq olduqda və bizi ən çox sevindirən şeyi etməyə heç nə mane olmursa, bütün həzzləri qəbul etmək, bütün ağrıları dəf etmək, rədd edilməmək lazımdır. Beləliklə, bu şeylərin seçimi müdrik insanın əlindədir ki, ya həzzləri rədd etməklə daha böyük şeylərə nail ola bilsin, ya da ağrılara dözərək onları dəf etsin.",
+    "descriptionRu": "И действительно, различие между этими вещами легко и целесообразно. Ибо в свободное время, когда перед нами открыт выбор и ничто не мешает нам делать то, что нам больше всего нравится, все удовольствия надо предполагать, всю боль отталкивать, а не отказываться. И поэтому выбор этих вещей держится мудрым человеком, чтобы или отвергая удовольствия, он мог достичь большего, или, терпя страдания, он отталкивал их. ",
+    "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/754ef2206125e68f344e6b26d5b0e7816a0e4381?fuid=1131637315550891943"
+  },
+  "discount": {
+    "id": 1,
+    "title": "20% DISCOUNT",
+    "titleAz": "20% ENDİRİM",
+    "titleRu": "СКИДКА 20%",
+    "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo ",
+    "descriptionAz": "Həqiqətən də bu şeylər arasında fərq asan və məqsədəuyğundur. Çünki boş vaxtlarda, seçim bizim üçün açıq olduqda və bizi ən çox sevindir",
+    "descriptionRu": "И действительно, различие между этими вещами легко и целесообразно. Ибо в свободное время, когда перед нами открыт выбор и ничто не мешает ",
+    "img": "https://images.pexels.com/photos/3741313/pexels-photo-3741313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "link": "http://localhost:5173/products"
+  },
+  "statistics": [
+    {
+      "id": "1",
+      "count": "500",
+      "descriptionAz": "proyektlər",
+      "descriptionRu": "проекты",
+      "description": "projects"
+    },
+    {
+      "id": "2",
+      "count": "70",
+      "description": "partners",
+      "descriptionAz": "tərəfdaşlar",
+      "descriptionRu": "партнеры"
+    },
+    {
+      "id": "3",
+      "count": "30K",
+      "description": "followers",
+      "descriptionAz": "təqibçilər",
+      "descriptionRu": "подписчики"
+    },
+    {
+      "id": "4",
+      "count": "25",
+      "description": "years",
+      "descriptionAz": "illər",
+      "descriptionRu": "лет"
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "title": "#539991"
+    },
+    {
+      "id": "2",
+      "title": "#555"
+    },
+    {
+      "id": "3",
+      "title": "#B8926A"
+    },
+    {
+      "id": "4",
+      "title": "#B0B0B0"
+    },
+    {
+      "id": "5",
+      "title": "#D4C8BE"
+    },
+    {
+      "id": "9",
+      "title": "#D438BE"
+    }
+  ],
+  "productColors": [
+    {
+      "productId": 1,
+      "colorId": 1,
+      "id": "50e4"
+    },
+    {
+      "productId": 1,
+      "colorId": 2,
+      "id": "0534"
+    },
+    {
+      "productId": 1,
+      "colorId": 3,
+      "id": "f34f"
+    },
+    {
+      "productId": 2,
+      "colorId": 3,
+      "id": "d3d1"
+    },
+    {
+      "productId": 2,
+      "colorId": 1,
+      "id": "9443"
+    },
+    {
+      "productId": 3,
+      "colorId": 3,
+      "id": "93df"
+    },
+    {
+      "productId": 3,
+      "colorId": 2,
+      "id": "f0bc"
+    },
+    {
+      "productId": 4,
+      "colorId": 4,
+      "id": "c32f"
+    },
+    {
+      "productId": 4,
+      "colorId": 5,
+      "id": "c18d"
+    },
+    {
+      "productId": 16,
+      "colorId": 9,
+      "id": "f05f"
+    },
+    {
+      "productId": 16,
+      "colorId": 2,
+      "id": "be9a"
+    },
+    {
+      "productId": 15,
+      "colorId": 1,
+      "id": "cbc0"
+    }
+  ],
+  "users": [
+    {
+      "name": "Mirqubad ",
+      "surname": "Akbaorv",
+      "password": "12345",
+      "email": "mirgubad@gmail.com",
+      "id": "8"
+    },
+    {
+      "name": "Mirqubad",
+      "surname": "Əkbərov",
+      "password": "12345",
+      "email": "mirqubad@mail.ru",
+      "id": "9"
+    },
+    {
+      "name": "Mirqubad",
+      "surname": "Əkbərov",
+      "password": "12345",
+      "email": "mirqubad@mail.ru1",
+      "id": "10"
+    },
+    {
+      "name": "Mirqubad",
+      "surname": "Əkbərov",
+      "password": "123456",
+      "email": "mirqubad@mail.rus",
+      "id": "11"
+    },
+    {
+      "name": "test",
+      "surname": "testov",
+      "password": "12346",
+      "email": "mirqubad@mail.ruj",
+      "id": "12"
+    },
+    {
+      "name": "Mirqubad",
+      "surname": "Əkbərov",
+      "password": "12345",
+      "email": "mirqubad@mail.ruki",
+      "id": "13"
+    },
+    {
+      "name": "Test",
+      "surname": "test",
+      "password": "12345",
+      "email": "test@mail.ru",
+      "id": "14"
+    }
+  ],
+  "basketProduct": [
+    {
+      "productId": 1,
+      "colorId": 1,
+      "count": 14,
+      "userId": 8,
+      "id": "1"
+    },
+    {
+      "productId": 1,
+      "colorId": 1,
+      "count": 5,
+      "userId": 8,
+      "id": "2"
+    },
+    {
+      "productId": 1,
+      "colorId": 1,
+      "count": 5,
+      "userId": 8,
+      "id": "3"
+    },
+    {
+      "productId": 1,
+      "colorId": 1,
+      "count": 5,
+      "userId": 10,
+      "id": "7"
+    },
+    {
+      "productId": 2,
+      "colorId": 1,
+      "count": 5,
+      "userId": 10,
+      "id": "8"
+    },
+    {
+      "productId": 1,
+      "colorId": 1,
+      "count": 9,
+      "userId": 14,
+      "id": "9"
+    },
+    {
+      "id": "2897",
+      "productId": "1",
+      "colorId": null,
+      "count": 1,
+      "userId": 9
+    }
+  ]
+}

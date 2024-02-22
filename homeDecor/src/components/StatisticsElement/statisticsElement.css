@@ -1,0 +1,14 @@
+.statistics__item{
+  text-align: center;
+}
+
+.statistics__item--count {
+  color: var(--color-primary);
+  font-size: 6.4rem;
+  margin-bottom: 2.7rem;
+}
+
+.statistics__item--desc {
+  text-transform: uppercase;
+  font-weight: 500;
+}

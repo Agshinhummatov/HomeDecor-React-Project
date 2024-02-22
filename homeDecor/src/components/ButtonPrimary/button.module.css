@@ -1,0 +1,15 @@
+.primary__btn {
+  background: var(--color-primary);
+  max-width: 33rem;
+  color: var(--btn-txt-color);
+  transition: background .2s linear;
+}
+
+.primary__btn:hover{
+ background: var(--btn-hover-bg);
+}
+
+.primary__btn:disabled{
+  background: var(--btn-disabled-bg);
+  cursor: not-allowed;
+}

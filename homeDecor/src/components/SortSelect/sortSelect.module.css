@@ -1,0 +1,58 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  font-weight: 500;
+max-width: 33rem;
+  background: var(--main-bg);
+  border: 1px solid var(--border-color-main);
+  border-radius: var(--border-radius);
+  padding: 1rem 0;
+  cursor: pointer;
+  height: 5.4rem;
+}
+
+.select {
+  max-width: 33rem;
+  width: 100%;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
+  color: var(--color-primary);
+}
+
+.options {
+  background: var(--main-bg);
+  position: absolute;
+  top: 3rem;
+  width: 100%;
+  border: 1px solid var(--border-color-main);
+  border-radius: var(--border-radius);
+  z-index: -1;
+  padding: 2rem 0 2rem 2rem;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.options.expanded {
+  max-height: 1000px; /* Adjust this value based on your content */
+  opacity: 1;
+}
+.option {
+  cursor: pointer;
+
+  margin-top: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    justify-content: space-between;
+    padding: 0 2rem;
+  }
+  .header svg {
+    order: 1;
+  }
+}

@@ -1,0 +1,31 @@
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--main-bg);
+  width: min(90%, 44.6rem);
+  z-index: 9999999;
+}
+
+.toast {
+  padding: 4.8rem clamp(1rem, 10%, 2rem);
+  display: grid;
+  place-items: center;
+  position: relative;
+  text-align: center;
+  gap: 3.5rem;
+}
+
+.close__btn {
+  text-align: right;
+  cursor: pointer;
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+}
+
+.popup__title {
+  font-size: 3.2rem;
+  font-weight: 700;
+}

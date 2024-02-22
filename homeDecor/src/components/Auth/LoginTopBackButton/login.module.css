@@ -1,0 +1,17 @@
+.login__top {
+  margin-bottom: clamp(4rem, -0.5283rem + 14.1509vw, 14rem);
+}
+
+.back__btn svg {
+  background: var(--color-primary);
+  border-radius: 50%;
+}
+
+.back__btn {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  font-weight: 600;
+}

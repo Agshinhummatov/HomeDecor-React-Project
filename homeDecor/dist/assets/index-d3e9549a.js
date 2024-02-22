@@ -1,0 +1,1 @@
+import{j as a,w as m}from"./index-71d35b4f.js";import{b as n}from"./button.module-6fdb41d6.js";const b=({children:t,href:s,disabled:r=!1})=>s?a.jsx(m,{disabled:r,to:s,className:`btn ${n.primary__btn}`,children:t}):a.jsx(m,{disabled:r,className:`btn ${n.primary__btn}`,children:t});export{b as B};

@@ -1,0 +1,15 @@
+.prevarr::before {
+  content: "";
+}
+
+
+.prevarr{
+  background: var(--color-primary);
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+}
+
+.prevarr:hover{
+  background-color: var(--btn-hover-bg);
+}

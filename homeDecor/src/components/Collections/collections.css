@@ -1,0 +1,13 @@
+.collection {
+  margin-bottom: clamp(0rem, -2.7379rem + 10.6796vw, 15.7rem);
+}
+
+.collection__items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(34rem), 0.8fr));
+  justify-content: center;
+  gap: 2rem;
+}
+.collection__items .category__item {
+  height: 26.6rem;
+}

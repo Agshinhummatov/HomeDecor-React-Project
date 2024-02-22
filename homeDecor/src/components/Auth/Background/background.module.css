@@ -1,0 +1,7 @@
+.background {
+  /* max-width: 82.7rem; */
+  /* width: 100%; */
+  min-width: 33rem;
+  flex: 1.3;
+  height: 100vh;
+}

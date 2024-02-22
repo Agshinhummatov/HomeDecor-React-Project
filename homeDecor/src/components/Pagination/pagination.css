@@ -1,0 +1,21 @@
+.pagination {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: end;
+}
+
+.pagination li{
+  cursor: pointer;
+  text-align: center;
+}
+.pagination li.active a{
+  color: var(--txt-color-dark-gray);
+}
+
+@media screen and (max-width:60rem) {
+  .pagination{
+    justify-content: center;
+  }
+  
+}

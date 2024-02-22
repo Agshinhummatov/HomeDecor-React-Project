@@ -1,0 +1,1 @@
+import{j as o,w as r}from"./index-71d35b4f.js";import{s}from"./index-76fa750f.js";const a=({question:m,pathname:t})=>o.jsx("div",{className:s.form__bottom,children:o.jsxs("p",{className:s["form__bottom--txt"],children:[m,o.jsx(r,{className:s["form__bottom--link"],to:`/auth/${t}`,children:t})]})});export{a as F};

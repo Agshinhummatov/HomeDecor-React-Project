@@ -1,0 +1,32 @@
+.details {
+  margin-bottom: clamp(7.1rem, 5.435rem + 4.7573vw, 12rem);
+}
+
+.details__item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6rem;
+  justify-content: space-between;
+}
+
+.bigSlider {
+  margin-bottom: 2.5rem;
+}
+
+.bigSlider .slick-slide img {
+  height: 40.3rem;
+  border-radius: var(--border-radius);
+}
+
+.smallSlider .slick-slide img {
+  height: 100%;
+  max-height: 10rem;
+  max-width: 19.5rem !important;
+  border-radius: var(--border-radius);
+}
+
+@media screen and (max-width: 600px) {
+  .bigSlider .slick-slide img {
+    height: 28.8rem;
+  }
+}
