@@ -8,16 +8,10 @@ export const productsApi = createApi({
       query: () => "",
     }),
     getAllProductsHome: builder.query({
-      query: (options) => {
-        const params = new URLSearchParams({ showInHome: true });
-        return `?${params}`;
-      },
+      query: (options) => "",
     }),
     getPopularProducts: builder.query({
-      query: (options) => {
-        const params = new URLSearchParams({ isPopular: true });
-        return `?${params}`;
-      },
+      query: () => "", // Parametre kullanılmadığı için boş bir query fonksiyonu
     }),
     getProductById: builder.query({
       query: (id) => `/${id}`,

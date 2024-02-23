@@ -44,6 +44,12 @@ const HomePage = () => {
       useSetPageTitle("Home page");
   }
 
+  useEffect(() => {
+   
+    console.log("products:", products);
+   
+  }, [products]);
+
   return (
     <main>
       {homeIntro && <HomeIntro lang={lang} {...homeIntro} />}
@@ -71,8 +77,8 @@ const HomePage = () => {
             lang === "Az" ? "Məhsullar" : lang === "Ru" ? "Товары" : "Products"
           }
         >
-          {products.map((product) => (
-            <ProductElement lang={lang} key={product.id} {...product} />
+          {products .filter((product) => product.showInHome === true).map((product) => (
+            <ProductElement lang={lang} key={product.id} {...product}  />
           ))}
         </HomeProducts>
       )}
@@ -82,13 +88,15 @@ const HomePage = () => {
             lang === "Az"
               ? "Populyar məhsullar"
               : lang === "Ru"
-              ? "Популярные товары"
-              : "Most Popular"
+                ? "Популярные товары"
+                : "Most Popular"
           }
         >
-          {popularProducts.map((product) => (
-            <ProductElement lang={lang} key={`a-${product.id}`} {...product} />
-          ))}
+          {popularProducts
+            .filter((product) => product.isPopular === true)
+            .map((product) => (
+              <ProductElement lang={lang} key={`a-${product.id}`} {...product} />
+            ))}
         </PopularProducts>
       )}
 
@@ -99,8 +107,8 @@ const HomePage = () => {
             lang === "Az"
               ? "Kolleksiyalar"
               : lang === "Ru"
-              ? "Коллекции"
-              : "Collections"
+                ? "Коллекции"
+                : "Collections"
           }
         >
           {collections.map((product) => (

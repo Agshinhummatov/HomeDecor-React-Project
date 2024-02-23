@@ -53,7 +53,7 @@
       "showInHome": true,
       "categoryId": 2,
       "collectionId": 1,
-      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/5a9755b2be5d65f3963d2bc282606dc6acd7fe2d?fuid=1131637315550891943",
       "title": "Grayson Premium Grey Wash Nest of Tables",
       "titleAz": "Müəzzəm mətbəx mebeli",
       "titleRu": "Кухонная мебель",
@@ -98,7 +98,7 @@
     },
     {
       "id": "7",
-      "showInHome": true,
+      "showInHome": false,
       "categoryId": 4,
       "collectionId": 4,
       "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
@@ -114,7 +114,7 @@
     },
     {
       "id": "8",
-      "showInHome": true,
+      "showInHome": false,
       "categoryId": 4,
       "collectionId": 4,
       "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/dee2eb1391d11c1e5ecc902a0c6592f4c16d3abb?fuid=1131637315550891943",
@@ -149,7 +149,7 @@
       "showInHome": false,
       "categoryId": 4,
       "collectionId": 5,
-      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/dee2eb1391d11c1e5ecc902a0c6592f4c16d3abb?fuid=1131637315550891943",
       "title": "Grayson Premium Grey Wash Nest of Tables",
       "titleAz": "Müəzzəm mətbəx mebeli",
       "titleRu": "Кухонная мебель",
@@ -167,12 +167,12 @@
       "collectionId": 5,
       "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
       "title": "Grayson Premium Grey Wash Nest of Tables",
-      "titleAz": "Müəzzəm mətbəx mebeli",
+      "titleAz": "Müəzzəm mətbəx mebeli aqsin",
       "titleRu": "Кухонная мебель",
       "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
       "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
       "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
-      "price": 140,
+      "price": 144,
       "currency": "$",
       "isPopular": true
     },
@@ -181,14 +181,14 @@
       "showInHome": false,
       "categoryId": 3,
       "collectionId": 3,
-      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/18dbff63f1f0dd3eb19c837df412907407129597?fuid=1131637315550891943",
+      "img": "https://www.figma.com/file/r9LDbjRUV4V3zlUFE3gpO3/image/dee2eb1391d11c1e5ecc902a0c6592f4c16d3abb?fuid=1131637315550891943",
       "title": "Grayson Premium Grey Wash Nest of Tables",
       "titleAz": "Müəzzəm mətbəx mebeli",
       "titleRu": "Кухонная мебель",
       "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
       "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
       "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
-      "price": 140,
+      "price": 147,
       "currency": "$",
       "isPopular": true
     },
@@ -204,7 +204,7 @@
       "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
       "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
       "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
-      "price": 140,
+      "price": 156,
       "currency": "$",
       "isPopular": true
     },
@@ -220,7 +220,7 @@
       "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
       "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
       "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
-      "price": 140,
+      "price": 128,
       "currency": "$",
       "isPopular": true
     },
@@ -236,7 +236,7 @@
       "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
       "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
       "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
-      "price": 140,
+      "price": 200,
       "currency": "$",
       "isPopular": true
     },
@@ -252,7 +252,7 @@
       "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. ",
       "descriptionAz": "Müvəqqəti vaxt və ya rəsmi olaraq debit və ya yenidən ehtiyac yaranır ki, bu, hər hansı bir hadisədən imtina edir və geri çəkilmir.",
       "descriptionRu": "Временно или официально отказаться от дебета или повторно потребовать, чтобы это не произошло в результате какого-либо события.",
-      "price": 140,
+      "price": 199,
       "currency": "$",
       "isPopular": true
     }
@@ -537,49 +537,49 @@
   ],
   "users": [
     {
-      "name": "Mirqubad ",
-      "surname": "Akbaorv",
+      "name": "Aqsin",
+      "surname": "Hummatov",
       "password": "12345",
-      "email": "mirgubad@gmail.com",
+      "email": "aqsin@gmail.com",
       "id": "8"
     },
     {
-      "name": "Mirqubad",
-      "surname": "Əkbərov",
+      "name": "Aqsin",
+      "surname": "Hummatov",
       "password": "12345",
-      "email": "mirqubad@mail.ru",
+      "email": "aqsin@mail.ru",
       "id": "9"
     },
     {
-      "name": "Mirqubad",
-      "surname": "Əkbərov",
+      "name": "Aqsin",
+      "surname": "Hummatov",
       "password": "12345",
-      "email": "mirqubad@mail.ru1",
+      "email": "aqsin@mail.ru1",
       "id": "10"
     },
     {
-      "name": "Mirqubad",
-      "surname": "Əkbərov",
+      "name": "Aqsin",
+      "surname": "Hummatov",
       "password": "123456",
-      "email": "mirqubad@mail.rus",
+      "email": "aqsin99@mail.rus",
       "id": "11"
     },
     {
       "name": "test",
       "surname": "testov",
       "password": "12346",
-      "email": "mirqubad@mail.ruj",
+      "email": "Aqsin23@mail.ruj",
       "id": "12"
     },
     {
-      "name": "Mirqubad",
-      "surname": "Əkbərov",
+      "name": "Aqsin",
+      "surname": "Hummatov",
       "password": "12345",
-      "email": "mirqubad@mail.ruki",
+      "email": "Aqsin@mail.ruki",
       "id": "13"
     },
     {
-      "name": "Test",
+      "name": "aqsin",
       "surname": "test",
       "password": "12345",
       "email": "test@mail.ru",
