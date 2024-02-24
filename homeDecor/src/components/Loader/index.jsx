@@ -1,17 +1,18 @@
 import "../Loader/loader.css";
-import { RotatingTriangles } from "react-loader-spinner";
+import { Vortex} from "react-loader-spinner";
 import React from "react";
 
 const Loader = () => {
   return (
     <div className="loader">
-      <RotatingTriangles
+      <Vortex
         visible={true}
         height="80"
         width="80"
-        ariaLabel="rotating-triangels-loading"
+        ariaLabel="vortex-loading"
         wrapperStyle={{}}
-        wrapperClass="rotating-triangels-wrapper"
+        wrapperClass="vortex-wrapper"
+        colors={['red', 'green', 'blue', 'yellow', 'orange', 'purple']}
       />
     </div>
   );

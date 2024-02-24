@@ -27,6 +27,7 @@ import ProtectedRoute from "./utils/ProtectecRoute";
 const App = () => {
   return (
     <>
+    
       <Router>
         <Suspense fallback={<Loader />}>
           <Routes>

@@ -46,7 +46,7 @@ const HomePage = () => {
 
   useEffect(() => {
    
-    console.log("products:", products);
+   
    
   }, [products]);
 
